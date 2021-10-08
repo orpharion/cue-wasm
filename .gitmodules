@@ -1,0 +1,6 @@
+[submodule "external/github.com/tinygo-org/tinygo"]
+	path = external/github.com/tinygo-org/tinygo
+	url = https://github.com/tinygo-org/tinygo
+[submodule "external/github.com/pkg/errors"]
+	path = external/github.com/pkg/errors
+	url = https://github.com/pkg/errors.git
