@@ -4,3 +4,6 @@
 [submodule "external/github.com/pkg/errors"]
 	path = external/github.com/pkg/errors
 	url = https://github.com/pkg/errors.git
+[submodule "external/github.com/cue-lang/cue"]
+	path = external/github.com/cue-lang/cue
+	url = https://github.com/cue-lang/cue
