@@ -7,3 +7,6 @@
 [submodule "external/github.com/cue-lang/cue"]
 	path = external/github.com/cue-lang/cue
 	url = https://github.com/cue-lang/cue
+[submodule "external/github.com/golang/tools"]
+	path = external/github.com/golang/tools
+	url = https://github.com/golang/tools

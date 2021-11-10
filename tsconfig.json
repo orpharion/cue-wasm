@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "noEmitOnError": true,
+        "noImplicitAny": true,
+        "skipLibCheck": true,
+        "outDir": "../dist",
+        "target": "ES2020",
+        "noFallthroughCasesInSwitch": true,
+        "allowJs": false,
+        "allowSyntheticDefaultImports": false,
+        "strict": true,
+        "declaration": true,
+        "module": "UMD"
+    },
+    "include": [
+        "../src",
+        "examples"
+    ],
+    "exclude": [
+        "../node_modules",
+        "dist",
+        "external"
+    ]
+}
